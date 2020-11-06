@@ -9,6 +9,12 @@
 
 [![Project Logo][logo]][logo-large]
 
+## Dependencies
+
+This library utilises Erlang's `os:cmd` to call out to the GraphViz `dot`
+exectuable. As such, use of this library requires that one first have GraphViz
+installed on one's system.
+
 ## Usage
 
 ```erlang
