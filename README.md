@@ -1,6 +1,8 @@
 # graphviz
 
-Erlang interface to the GraphViz graph visuzlization tool
+*Erlang interface to the GraphViz graph visuzlization tool*
+
+[![Project Logo][logo]][logo-large]
 
 ## Usage
 
@@ -16,3 +18,8 @@ graphviz:to_file("test2.png", "png").
 
 Copyright © 2011, Grégoire Lejeune
 
+
+[//]: ---Named-Links---
+
+[logo]: priv/images/graphviz-logo.png
+[logo-large]: priv/images/graphviz-logo-thumb.png
