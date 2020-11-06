@@ -23,6 +23,8 @@ graphviz:to_file("test2.png", "png").
 
 Copyright © 2011, Grégoire Lejeune
 
+Copyright © 2020, Duncan McGreggor
+
 
 [//]: ---Named-Links---
 
