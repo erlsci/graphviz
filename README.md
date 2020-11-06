@@ -1,6 +1,6 @@
 # graphviz
 
-*Erlang interface to the GraphViz graph visuzlization tool*
+*Erlang interface to the GraphViz graph visualisation tool*
 
 [![Build Status][gh-actions-badge]][gh-actions]
 [![LFE Versions][lfe-badge]][lfe]

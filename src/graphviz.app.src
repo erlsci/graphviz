@@ -1,5 +1,5 @@
 {application, graphviz,
- [{description, "Erlang interface to the GraphViz graph visuzlization"},
+ [{description, "Erlang interface to the GraphViz graph visualisation"},
   {vsn, "1.0.0-dev"},
   {registered, []},
   {applications,
